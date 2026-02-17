@@ -1,6 +1,28 @@
 # 💳 Online Payment Fraud Detection System
 
-A Machine Learning–based web application that detects whether an online transaction is **fraudulent or legitimate** using a trained classification model and a premium responsive UI.
+🚀 **Live Demo:**  
+👉 https://online-payment-fraud-detection-app.onrender.com/
+
+---
+
+## 📌 Project Overview
+
+This project is a Machine Learning–based web application that detects whether an online transaction is **fraudulent or legitimate** using a trained classification model and a premium responsive UI.
+
+The model is trained on a real-world dataset and deployed using Flask on a cloud server.
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Machine Learning (Scikit-learn)
+- Data Analysis (Pandas, NumPy)
+- Flask Web Framework
+- Bootstrap UI
+- Model Deployment (Render)
+
+---
 
 This project demonstrates the complete ML pipeline:
 
@@ -96,25 +118,6 @@ This project uses the PaySim synthetic financial dataset.
 https://www.kaggle.com/datasets/ealaxi/paysim1
 
 Note: Dataset is not included in this repository due to GitHub file size limits.
-
----
-
-## ⚙️ Technologies Used
-
-### 💻 Backend
-- Python
-- Flask
-
-### 🧠 Machine Learning
-- Scikit-learn
-- Pandas
-- NumPy
-
-### 🎨 Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- Responsive design
 
 ---
 
@@ -249,8 +252,7 @@ Flagged Fraud: 1
 ---
 
 ## 🚀 Future Improvements
-
-- Deploy on cloud (Render / AWS / Heroku)  
+ 
 - Add user authentication  
 - Real-time transaction monitoring  
 - Model optimization  
