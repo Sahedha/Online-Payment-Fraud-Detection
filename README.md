@@ -232,7 +232,7 @@ Old Balance Origin: 20000
 New Balance Origin: 15000
 Old Balance Dest: 0
 New Balance Dest: 5000
-Flagged Fraud: 0
+Flagged Fraud: 0(no)
 
 
 ---
@@ -246,7 +246,7 @@ Old Balance Origin: 200000
 New Balance Origin: 0
 Old Balance Dest: 0
 New Balance Dest: 200000
-Flagged Fraud: 1
+Flagged Fraud: 1(yes)
 
 
 ---
