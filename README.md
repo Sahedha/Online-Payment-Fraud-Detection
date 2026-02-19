@@ -239,13 +239,13 @@ Flagged Fraud: 0(no)
 
 ### ⚠ Fraudulent Transaction Example
 
-Step: 2
-Type: 4
-Amount: 200000
-Old Balance Origin: 200000
+Step: 10
+Type: 2
+Amount: 750000
+Old Balance Origin: 750000
 New Balance Origin: 0
 Old Balance Dest: 0
-New Balance Dest: 200000
+New Balance Dest: 750000
 Flagged Fraud: 1(yes)
 
 
